@@ -33,4 +33,3 @@ Christina Joslin
 ## Acknowledgements
 - Data provided by the MNIST dataset.
 - Thanks to the TensorFlow and scikit-learn teams for their open-source contributions.
-"""
